@@ -1,0 +1,11 @@
+C:\REST\springboot_app\src\main\java\com\example\usermanagement\UserManagementApplication.java
+C:\REST\springboot_app\src\main\java\com\example\usermanagement\model\dto\UserUpdateDTO.java
+C:\REST\springboot_app\src\main\java\com\example\usermanagement\repository\UserRepository.java
+C:\REST\springboot_app\src\main\java\com\example\usermanagement\service\UserService.java
+C:\REST\springboot_app\src\main\java\com\example\usermanagement\exception\GlobalExceptionHandler.java
+C:\REST\springboot_app\src\main\java\com\example\usermanagement\model\User.java
+C:\REST\springboot_app\src\main\java\com\example\usermanagement\model\dto\ApiResponse.java
+C:\REST\springboot_app\src\main\java\com\example\usermanagement\model\dto\UserResponseDTO.java
+C:\REST\springboot_app\src\main\java\com\example\usermanagement\controller\FastAPIController.java
+C:\REST\springboot_app\src\main\java\com\example\usermanagement\model\dto\UserCreateDTO.java
+C:\REST\springboot_app\src\main\java\com\example\usermanagement\controller\UserController.java
