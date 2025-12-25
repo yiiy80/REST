@@ -12,7 +12,8 @@ dist-ssr
 .pytest_cache/
 __pycache__/
 *.pyc
-
+target/
+*.class
 !.vscode/extensions.json
 .idea
 .DS_Store
